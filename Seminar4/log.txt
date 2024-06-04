@@ -1,0 +1,7 @@
+4 Jun 2024, 16:02:13, Exception was thrown: Item with identifier item1 was not found.
+palew.integration.ItemNotFoundException: Item with identifier item1 was not found.
+	at palew.integration.ExternalInventorySystem.searchItem(ExternalInventorySystem.java:51)
+	at palew.controller.Controller.scanItem(Controller.java:94)
+	at palew.main.Main.main(Main.java:33)
+
+
